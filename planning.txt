@@ -1,5 +1,5 @@
 schdule programin web
--github
+
 -create data
 -update data
 -delete data
