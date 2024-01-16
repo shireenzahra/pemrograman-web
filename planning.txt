@@ -1,4 +1,5 @@
 schdule programin web
+web admin
 -create data
 -update data
 -delete data
